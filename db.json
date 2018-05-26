@@ -1,0 +1,16 @@
+{
+  "thingsTodo": [
+    {
+      "id": 1,
+      "value": "Go to the gym"
+    },
+    {
+      "id": 2,
+      "value": "Play football"
+    },
+    {
+      "id": 3,
+      "value": "Write some code"
+    }
+  ]
+}
